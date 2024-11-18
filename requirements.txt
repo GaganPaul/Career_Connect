@@ -1,0 +1,6 @@
+streamlit
+numpy
+scikit-learn
+python-dotenv
+langchain
+langchain-groq
