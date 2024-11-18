@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 import os
 import json
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 # Load environment variables
-load_dotenv()
+#load_dotenv()
 
 # Function to load data from JSON files
 def load_data(filename: str) -> list:
