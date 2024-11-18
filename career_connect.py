@@ -69,9 +69,12 @@ def preprocess_profile(profile: dict) -> str:
 # Initialize LangChain chatbot
 def setup_chatbot():
     if 'conversation_chain' not in st.session_state:
+        # Retrieve API key from Streamlit secrets
+        groq_api_key = st.secrets["GROQ_API_KEY"]
+        
         # Initialize the ChatGroq model
         chat_model = ChatGroq(
-            groq_api_key=os.getenv("GROQ_API_KEY"),
+            groq_api_key=groq_api_key,
             model="llama3-8b-8192",
             temperature=1,
             timeout=None,
