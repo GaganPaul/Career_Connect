@@ -1,0 +1,156 @@
+[
+    {
+        "full_name": "Gag",
+        "gender": "Male",
+        "class_level": "10",
+        "subject_preferences": [
+            "Math"
+        ],
+        "extracurricular_activities": "nothing",
+        "hobbies_interests": "read",
+        "achievements": "won in a computer competition",
+        "career_goals": "I want to explore GEN AI field"
+    },
+    {
+        "full_name": "Sanya",
+        "gender": "Female",
+        "class_level": "9",
+        "subject_preferences": [
+            "Science",
+            "Biology"
+        ],
+        "extracurricular_activities": "Drama Club",
+        "hobbies_interests": "painting, dancing",
+        "achievements": "won first place in science fair",
+        "career_goals": "Become a medical researcher"
+    },
+    {
+        "full_name": "Aarav",
+        "gender": "Male",
+        "class_level": "11",
+        "subject_preferences": [
+            "Physics",
+            "Math"
+        ],
+        "extracurricular_activities": "Basketball Team",
+        "hobbies_interests": "coding, gaming",
+        "achievements": "state-level basketball champion",
+        "career_goals": "Pursue software engineering"
+    },
+    {
+        "full_name": "Neha",
+        "gender": "Female",
+        "class_level": "12",
+        "subject_preferences": [
+            "Commerce",
+            "Economics"
+        ],
+        "extracurricular_activities": "Debate Team",
+        "hobbies_interests": "reading novels, blogging",
+        "achievements": "represented school in national debates",
+        "career_goals": "Start an entrepreneurial venture"
+    },
+    {
+        "full_name": "Rohan",
+        "gender": "Male",
+        "class_level": "8",
+        "subject_preferences": [
+            "English",
+            "History"
+        ],
+        "extracurricular_activities": "Chess Club",
+        "hobbies_interests": "sketching, writing poems",
+        "achievements": "district chess champion",
+        "career_goals": "Write historical novels"
+    },
+    {
+        "full_name": "Priya",
+        "gender": "Female",
+        "class_level": "10",
+        "subject_preferences": [
+            "Computer Science"
+        ],
+        "extracurricular_activities": "Coding Club",
+        "hobbies_interests": "designing apps, robotics",
+        "achievements": "developed a school app",
+        "career_goals": "Work in AI and robotics"
+    },
+    {
+        "full_name": "Kabir",
+        "gender": "Male",
+        "class_level": "9",
+        "subject_preferences": [
+            "Geography",
+            "Civics"
+        ],
+        "extracurricular_activities": "Nature Club",
+        "hobbies_interests": "trekking, bird watching",
+        "achievements": "organized a city cleanup drive",
+        "career_goals": "Become an environmental scientist"
+    },
+    {
+        "full_name": "Ananya",
+        "gender": "Female",
+        "class_level": "7",
+        "subject_preferences": [
+            "Math",
+            "Science"
+        ],
+        "extracurricular_activities": "Art Club",
+        "hobbies_interests": "playing guitar, sketching",
+        "achievements": "won inter-school painting competition",
+        "career_goals": "Combine art and technology"
+    },
+    {
+        "full_name": "Ishaan",
+        "gender": "Male",
+        "class_level": "11",
+        "subject_preferences": [
+            "Physics",
+            "Computer Science"
+        ],
+        "extracurricular_activities": "Robotics Team",
+        "hobbies_interests": "DIY projects, playing chess",
+        "achievements": "designed a working robot for a competition",
+        "career_goals": "Work in robotics and AI"
+    },
+    {
+        "full_name": "Meera",
+        "gender": "Female",
+        "class_level": "8",
+        "subject_preferences": [
+            "English",
+            "Arts"
+        ],
+        "extracurricular_activities": "Theater Club",
+        "hobbies_interests": "acting, singing",
+        "achievements": "played lead role in school play",
+        "career_goals": "Become a performing artist"
+    },
+    {
+        "full_name": "Gan",
+        "gender": "Male",
+        "class_level": "10",
+        "subject_preferences": [
+            "Languages"
+        ],
+        "extracurricular_activities": "chess",
+        "hobbies_interests": "chess",
+        "achievements": "gammer",
+        "career_goals": "ai"
+    },
+    {
+        "full_name": "Pinto",
+        "gender": "Male",
+        "class_level": "degree",
+        "subject_preferences": [
+            "Computer Science",
+            "Science",
+            "Math"
+        ],
+        "extracurricular_activities": "Dev,games etc",
+        "hobbies_interests": "Likes to develop things",
+        "achievements": "Worked as an intern in a software company",
+        "career_goals": "Full Stack Developer"
+    }
+]

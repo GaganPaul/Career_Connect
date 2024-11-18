@@ -1,0 +1,155 @@
+[
+    {
+        "full_name": "Bug",
+        "gender": "Male",
+        "age": 18,
+        "professional_title": "AI Engineer",
+        "years_of_experience": 10,
+        "linkedin_profile": "dj osj s",
+        "areas_of_expertise": [
+            "Engineering",
+            "Science"
+        ],
+        "preferred_communication": "Email",
+        "mentoring_philosophy": "I want to teach people"
+    },
+    {
+        "full_name": "Priya Sharma",
+        "gender": "Female",
+        "age": 32,
+        "professional_title": "Software Developer",
+        "years_of_experience": 8,
+        "linkedin_profile": "linkedin.com/in/priyasharma",
+        "areas_of_expertise": [
+            "Web Development",
+            "JavaScript"
+        ],
+        "preferred_communication": "Video Call",
+        "mentoring_philosophy": "Encourage hands-on practice and real-world projects"
+    },
+    {
+        "full_name": "Arjun Rao",
+        "gender": "Male",
+        "age": 40,
+        "professional_title": "Data Scientist",
+        "years_of_experience": 15,
+        "linkedin_profile": "linkedin.com/in/arjunrao",
+        "areas_of_expertise": [
+            "Machine Learning",
+            "Statistics"
+        ],
+        "preferred_communication": "Email",
+        "mentoring_philosophy": "Focus on building strong fundamentals"
+    },
+    {
+        "full_name": "Meera Joshi",
+        "gender": "Female",
+        "age": 28,
+        "professional_title": "Digital Marketing Strategist",
+        "years_of_experience": 6,
+        "linkedin_profile": "linkedin.com/in/meerajoshi",
+        "areas_of_expertise": [
+            "SEO",
+            "Social Media Marketing"
+        ],
+        "preferred_communication": "Chat",
+        "mentoring_philosophy": "Empower creativity and analytical thinking"
+    },
+    {
+        "full_name": "Kunal Verma",
+        "gender": "Male",
+        "age": 35,
+        "professional_title": "Civil Engineer",
+        "years_of_experience": 12,
+        "linkedin_profile": "linkedin.com/in/kunalverma",
+        "areas_of_expertise": [
+            "Structural Design",
+            "Project Management"
+        ],
+        "preferred_communication": "Phone Call",
+        "mentoring_philosophy": "Bridge theory with practical applications"
+    },
+    {
+        "full_name": "Aditi Banerjee",
+        "gender": "Female",
+        "age": 29,
+        "professional_title": "Product Manager",
+        "years_of_experience": 7,
+        "linkedin_profile": "linkedin.com/in/aditibanerjee",
+        "areas_of_expertise": [
+            "Agile Methodology",
+            "UX Design"
+        ],
+        "preferred_communication": "Video Call",
+        "mentoring_philosophy": "Help mentees understand user-centric design"
+    },
+    {
+        "full_name": "Ravi Kapoor",
+        "gender": "Male",
+        "age": 45,
+        "professional_title": "Mechanical Engineer",
+        "years_of_experience": 20,
+        "linkedin_profile": "linkedin.com/in/ravikapoor",
+        "areas_of_expertise": [
+            "CAD",
+            "Thermodynamics"
+        ],
+        "preferred_communication": "Email",
+        "mentoring_philosophy": "Focus on innovation and sustainable solutions"
+    },
+    {
+        "full_name": "Sara Khan",
+        "gender": "Female",
+        "age": 30,
+        "professional_title": "Graphic Designer",
+        "years_of_experience": 10,
+        "linkedin_profile": "linkedin.com/in/sarakhan",
+        "areas_of_expertise": [
+            "Adobe Suite",
+            "Branding"
+        ],
+        "preferred_communication": "Chat",
+        "mentoring_philosophy": "Inspire creativity and visual storytelling"
+    },
+    {
+        "full_name": "Vivek Patel",
+        "gender": "Male",
+        "age": 38,
+        "professional_title": "Cybersecurity Expert",
+        "years_of_experience": 14,
+        "linkedin_profile": "linkedin.com/in/vivekpatel",
+        "areas_of_expertise": [
+            "Ethical Hacking",
+            "Network Security"
+        ],
+        "preferred_communication": "Video Call",
+        "mentoring_philosophy": "Build a proactive approach to problem-solving"
+    },
+    {
+        "full_name": "Ananya Roy",
+        "gender": "Female",
+        "age": 27,
+        "professional_title": "Content Writer",
+        "years_of_experience": 5,
+        "linkedin_profile": "linkedin.com/in/ananyaroy",
+        "areas_of_expertise": [
+            "Creative Writing",
+            "Technical Writing"
+        ],
+        "preferred_communication": "Email",
+        "mentoring_philosophy": "Encourage storytelling and clarity in expression"
+    },
+    {
+        "full_name": "Robinson",
+        "gender": "Male",
+        "age": 25,
+        "professional_title": "Full Stack Developer",
+        "years_of_experience": 10,
+        "linkedin_profile": "robinson.linkedin.com",
+        "areas_of_expertise": [
+            "Technology"
+        ],
+        "preferred_communication": "Email",
+        "mentoring_philosophy": "I like to  teach people"
+    }
+]
