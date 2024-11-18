@@ -4,3 +4,4 @@ scikit-learn
 python-dotenv
 langchain
 langchain-groq
+pydantic<2.0
