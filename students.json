@@ -154,3 +154,105 @@
         "career_goals": "Full Stack Developer"
     }
 ]
+[
+  {
+    "full_name": "Ayaan Malik",
+    "gender": "Male",
+    "class_level": "9",
+    "subject_preferences": ["History", "Geography"],
+    "extracurricular_activities": "Quiz Club",
+    "hobbies_interests": "reading about world wars, hiking",
+    "achievements": "won national quiz competition",
+    "career_goals": "Become a historian"
+  },
+  {
+    "full_name": "Ritika Mehta",
+    "gender": "Female",
+    "class_level": "11",
+    "subject_preferences": ["Biology", "Chemistry"],
+    "extracurricular_activities": "Environment Club",
+    "hobbies_interests": "gardening, photography",
+    "achievements": "started a composting program at school",
+    "career_goals": "Work in environmental conservation"
+  },
+  {
+    "full_name": "Sahil Arora",
+    "gender": "Male",
+    "class_level": "10",
+    "subject_preferences": ["Computer Science", "Physics"],
+    "extracurricular_activities": "Coding Club",
+    "hobbies_interests": "building apps, playing badminton",
+    "achievements": "developed a traffic management app",
+    "career_goals": "Specialize in AI applications"
+  },
+  {
+    "full_name": "Tanya Kapoor",
+    "gender": "Female",
+    "class_level": "12",
+    "subject_preferences": ["Psychology", "English"],
+    "extracurricular_activities": "Drama Club",
+    "hobbies_interests": "acting, poetry writing",
+    "achievements": "won state-level poetry competition",
+    "career_goals": "Become a clinical psychologist"
+  },
+  {
+    "full_name": "Karan Singh",
+    "gender": "Male",
+    "class_level": "8",
+    "subject_preferences": ["Math", "Science"],
+    "extracurricular_activities": "Robotics Club",
+    "hobbies_interests": "building robots, gaming",
+    "achievements": "won robotics championship at district level",
+    "career_goals": "Engineer advanced robotics"
+  },
+  {
+    "full_name": "Maya Gupta",
+    "gender": "Female",
+    "class_level": "9",
+    "subject_preferences": ["Economics", "Math"],
+    "extracurricular_activities": "Debate Team",
+    "hobbies_interests": "debating, solving puzzles",
+    "achievements": "national debating champion",
+    "career_goals": "Work in public policy"
+  },
+  {
+    "full_name": "Dev Patel",
+    "gender": "Male",
+    "class_level": "7",
+    "subject_preferences": ["Science", "Computer Science"],
+    "extracurricular_activities": "Chess Club",
+    "hobbies_interests": "solving riddles, playing chess",
+    "achievements": "won district chess championship",
+    "career_goals": "Research in quantum computing"
+  },
+  {
+    "full_name": "Naina Roy",
+    "gender": "Female",
+    "class_level": "10",
+    "subject_preferences": ["Biology", "Physics"],
+    "extracurricular_activities": "Nature Club",
+    "hobbies_interests": "birdwatching, trekking",
+    "achievements": "led a biodiversity awareness campaign",
+    "career_goals": "Pursue wildlife biology"
+  },
+  {
+    "full_name": "Rohit Sharma",
+    "gender": "Male",
+    "class_level": "11",
+    "subject_preferences": ["Physics", "Chemistry"],
+    "extracurricular_activities": "Science Club",
+    "hobbies_interests": "reading science journals, playing cricket",
+    "achievements": "participated in state-level science exhibition",
+    "career_goals": "Become a chemical engineer"
+  },
+  {
+    "full_name": "Aisha Khan",
+    "gender": "Female",
+    "class_level": "12",
+    "subject_preferences": ["Arts", "History"],
+    "extracurricular_activities": "Art Club",
+    "hobbies_interests": "sketching, learning about ancient cultures",
+    "achievements": "won inter-school art competition",
+    "career_goals": "Work as a museum curator"
+  }
+]
