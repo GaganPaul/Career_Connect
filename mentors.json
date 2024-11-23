@@ -153,3 +153,115 @@
         "mentoring_philosophy": "I like to  teach people"
     }
 ]
+[
+  {
+    "full_name": "Anil Kumar",
+    "gender": "Male",
+    "age": 50,
+    "professional_title": "Software Architect",
+    "years_of_experience": 25,
+    "linkedin_profile": "linkedin.com/in/anilkumar",
+    "areas_of_expertise": ["Software Architecture", "Cloud Computing"],
+    "preferred_communication": "Video Call",
+    "mentoring_philosophy": "Focus on long-term design thinking and scalability"
+  },
+  {
+    "full_name": "Sneha Desai",
+    "gender": "Female",
+    "age": 34,
+    "professional_title": "UX/UI Designer",
+    "years_of_experience": 12,
+    "linkedin_profile": "linkedin.com/in/snehadesai",
+    "areas_of_expertise": ["User Experience", "Wireframing"],
+    "preferred_communication": "Email",
+    "mentoring_philosophy": "Guide students to think critically about design decisions and user needs"
+  },
+  {
+    "full_name": "Vikas Yadav",
+    "gender": "Male",
+    "age": 40,
+    "professional_title": "Machine Learning Engineer",
+    "years_of_experience": 14,
+    "linkedin_profile": "linkedin.com/in/vikasyadav",
+    "areas_of_expertise": ["AI", "Machine Learning", "Data Science"],
+    "preferred_communication": "Video Call",
+    "mentoring_philosophy": "Promote the importance of data-driven decision-making and experimentation"
+  },
+  {
+    "full_name": "Isha Gupta",
+    "gender": "Female",
+    "age": 29,
+    "professional_title": "Financial Analyst",
+    "years_of_experience": 7,
+    "linkedin_profile": "linkedin.com/in/ishagupta",
+    "areas_of_expertise": ["Investment Analysis", "Financial Modeling"],
+    "preferred_communication": "Email",
+    "mentoring_philosophy": "Empower students with a strong understanding of financial fundamentals"
+  },
+  {
+    "full_name": "Rajesh Singh",
+    "gender": "Male",
+    "age": 46,
+    "professional_title": "Project Manager",
+    "years_of_experience": 18,
+    "linkedin_profile": "linkedin.com/in/rajeshsingh",
+    "areas_of_expertise": ["Project Management", "Agile Methodologies"],
+    "preferred_communication": "Phone Call",
+    "mentoring_philosophy": "Provide hands-on coaching on team management and risk mitigation"
+  },
+  {
+    "full_name": "Aarti Soni",
+    "gender": "Female",
+    "age": 38,
+    "professional_title": "Marketing Director",
+    "years_of_experience": 15,
+    "linkedin_profile": "linkedin.com/in/aartisoni",
+    "areas_of_expertise": ["Branding", "Digital Marketing"],
+    "preferred_communication": "Chat",
+    "mentoring_philosophy": "Focus on data-driven marketing strategies and creative brand-building"
+  },
+  {
+    "full_name": "Harish Reddy",
+    "gender": "Male",
+    "age": 42,
+    "professional_title": "Network Engineer",
+    "years_of_experience": 20,
+    "linkedin_profile": "linkedin.com/in/harishreddy",
+    "areas_of_expertise": ["Networking", "Cybersecurity"],
+    "preferred_communication": "Email",
+    "mentoring_philosophy": "Teach foundational networking concepts and security best practices"
+  },
+  {
+    "full_name": "Neelam Bhatia",
+    "gender": "Female",
+    "age": 30,
+    "professional_title": "Data Scientist",
+    "years_of_experience": 8,
+    "linkedin_profile": "linkedin.com/in/neelambhatia",
+    "areas_of_expertise": ["Data Analysis", "Statistical Modeling"],
+    "preferred_communication": "Video Call",
+    "mentoring_philosophy": "Encourage hands-on practice with real-world datasets and problem-solving"
+  },
+  {
+    "full_name": "Amitabh Pandey",
+    "gender": "Male",
+    "age": 55,
+    "professional_title": "Chief Technology Officer",
+    "years_of_experience": 30,
+    "linkedin_profile": "linkedin.com/in/amitabhpandey",
+    "areas_of_expertise": ["Technology Leadership", "Product Development"],
+    "preferred_communication": "Phone Call",
+    "mentoring_philosophy": "Instill a growth mindset, emphasizing leadership and strategic thinking"
+  },
+  {
+    "full_name": "Kavita Bansal",
+    "gender": "Female",
+    "age": 33,
+    "professional_title": "HR Manager",
+    "years_of_experience": 10,
+    "linkedin_profile": "linkedin.com/in/kavitabansal",
+    "areas_of_expertise": ["Human Resources", "Talent Acquisition"],
+    "preferred_communication": "Chat",
+    "mentoring_philosophy": "Help mentees develop emotional intelligence and soft skills for effective leadership"
+  }
+]
